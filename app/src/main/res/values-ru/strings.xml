@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_play">Играть!</string>
+    <string name="ingame_jump">Вверх</string>
+    <string name="ingame_left">Влево</string>
+    <string name="ingame_right">Вправо</string>
+    <string name="ingame_pause">Пауза</string>
+    <string name="ingame_shoot">Огонь</string>
+</resources>

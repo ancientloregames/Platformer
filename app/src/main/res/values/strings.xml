@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">AL Platformer</string>
+    <string name="button_play">Play!</string>
+    <string name="game_logo" translatable="false">game_logo</string>
+    <string name="ingame_jump">Jump</string>
+    <string name="ingame_shoot">Shoot</string>
+    <string name="ingame_right">Right</string>
+    <string name="ingame_left">Left</string>
+    <string name="ingame_pause">Pause</string>
+</resources>
